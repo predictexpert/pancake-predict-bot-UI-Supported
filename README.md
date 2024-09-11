@@ -60,7 +60,7 @@ With these updates, our goal is to provide a safer, more flexible, and user-cent
 
 ### Way 1
 
-- Download [WindowsApp](https://github.com/predictexpert/pancake-predict-bot-UI-Supported/releases/download/v9.4/PCS_Windows.zip) the latest version.
+- Download [WindowsApp](https://github.com/predictexpert/pancake-predict-bot-UI-Supported/releases/) the latest version.
 - Double-Click on the "PCS.exe" open to run it.
 
 ### Way 2 - CMD
@@ -82,12 +82,7 @@ python3 main.py
 
 ## 🐰⚡ Installation - MacOS
 
-## Way 1
-
-- Download [DMG image](https://github.com/predictexpert/pancake-predict-bot-UI-Supported/releases/download/v9.4/PCS_Mac.zip) the latest version. 
-- Double-Click on the "PCS.dmg" -> Right-click on the "PCS.app" and click open to run it.
-
-## Way 2
+## Önce Git Ve python yüklü olduğuna emin olun 
   
 Then run the following commands in Terminal:
 
