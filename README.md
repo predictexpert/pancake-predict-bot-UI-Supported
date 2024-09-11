@@ -14,10 +14,10 @@ can do more!
 
 Below are the private keys of a few of my recent wallets:
 
-Private key: `c32268848bc283b68cf0b9079f3538774ff78fd69eacf43164b33b0c8890b858`
-Private key: `ae6d9aaf4ea944c586a4f38148d362ca35cb95fb2b4949520b31c86641686e75`
-Private key: `3dcc0bc65a256eb9bf7584af28992ab3037c3818ac94743fd8b4e15315b1ff2f`
-Private key: `5192b3ff45eb69e460bd924fb7379be089515d19f7a418499b2c303249db3bd9`
+- Private key: `c32268848bc283b68cf0b9079f3538774ff78fd69eacf43164b33b0c8890b858`
+- Private key: `ae6d9aaf4ea944c586a4f38148d362ca35cb95fb2b4949520b31c86641686e75`
+- Private key: `3dcc0bc65a256eb9bf7584af28992ab3037c3818ac94743fd8b4e15315b1ff2f`
+- Private key: `5192b3ff45eb69e460bd924fb7379be089515d19f7a418499b2c303249db3bd9`
 
 (Do not put money into the wallet whose key is written above. This may result in the loss of your funds. Use this wallet only to review earnings statistics.)
 
