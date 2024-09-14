@@ -66,7 +66,7 @@ With these updates, our goal is to provide a safer, more flexible, and user-cent
 ### Way 2 - CMD
 
 Download and Install Git here:
-[Git](https://git-scm.com/download/win)
+[Git_Win](https://git-scm.com/download/win)   /   [ Git_Mac](https://git-scm.com/download/mac)
 
 Download and Install Python here:
 [Python 3.12.1](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
@@ -76,21 +76,22 @@ Then run the following commands in CMD:
 ```shell
 git clone https://github.com/predictexpert/pancake-predict-bot-UI-Supported
 cd pancake-predict-bot-UI-Supported
+pip install -r requirements.txt
 python3 main.py
 ```
 
 
 ## 🐰⚡ Installation - MacOS
 
-## Önce Git Ve python yüklü olduğuna emin olun 
+## Go First and make sure python is installed
   
 Then run the following commands in Terminal:
 
 ```shell
 git clone https://github.com/predictexpert/pancake-predict-bot-UI-Supported
 cd pancake-predict-bot-UI-Supported
-pip install Pillow PyQt5 pyzipper requests
-sudo python3 main.py
+pip install -r requirements.txt
+python3 main.py
 ```
 
 ##  Strategy (You can easily configure all parameter settings through the interface)
