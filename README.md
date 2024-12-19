@@ -5,7 +5,7 @@
 <img src=https://img.shields.io/github/issues-pr/predictexpert/pancake-predict-bot-UI-Supported?style=for-the-badge&logo=appveyor&color=informational />
 </p>
   
-# 🔮 PancakeSwap Prediction Bot UI v9.6 🚀 
+# 🔮 PancakeSwap Prediction Bot UI v9.7 🚀 
 
 PancakeSwap Prediction Bot using AI recommendations.
 
