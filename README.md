@@ -9,6 +9,10 @@
 
 PancakeSwap Prediction Bot using AI recommendations.
 
+## Video
+
+[![YouTube Video](https://img.youtube.com/vi/sGnn9kZlYKY/0.jpg)](https://www.youtube.com/watch?v=sGnn9kZlYKY)
+
 After accessing the wallet with the key below, connect to the Pancakeswap BNB Prediction game. See for yourself how I earned +6 bnb with a 73% success rate. This is just an experiment we do with an example wallet. You 
 can do more!
 
@@ -77,7 +81,7 @@ Then run the following commands in CMD:
 git clone https://github.com/predictexpert/pancake-predict-bot-UI-Supported
 cd pancake-predict-bot-UI-Supported
 pip install -r requirements.txt
-python3 main.py
+python main.py
 ```
 
 
